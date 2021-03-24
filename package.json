@@ -1,0 +1,11 @@
+{
+  "name": "flex-box-exemplo",
+  "version": "1.0.0",
+  "description": "Exemplo do uso de Flex-box",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm start"
+  },
+  "author": "David Reis",
+  "license": "ISC"
+}
