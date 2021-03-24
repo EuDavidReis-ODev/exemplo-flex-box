@@ -39,6 +39,7 @@ header li:last-child{margin-right: 30px;}
     text-align: center;
     display: flex;
     flex-direction: column;
+    padding-inline-start: 0;
 }
 .hero h1{
     font-size: 3rem;
