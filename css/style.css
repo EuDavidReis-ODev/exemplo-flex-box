@@ -45,10 +45,15 @@ header li:last-child{margin-right: 30px;}
     font-size: 3rem;
     margin-bottom: 15px;
     text-transform: uppercase;
+    text-align: center;
+    padding: 0 50px;
+
 }
 .hero h3{
     font-size:2rem;
     margin-bottom: 15px;
+    padding: 0 50px;
+
 }
 .hero .btn {
     background-color: #fff;
@@ -73,6 +78,7 @@ header li:last-child{margin-right: 30px;}
     font-size: 2rem;
     margin-bottom: 35px;
     color: #191c03;
+    text-align: center;
 
 }
 .conheca-o-hotel p{
