@@ -39,7 +39,6 @@ header li:last-child{margin-right: 30px;}
     text-align: center;
     display: flex;
     flex-direction: column;
-    padding-inline-start: 0;
 }
 .hero h1{
     font-size: 3rem;
@@ -155,7 +154,6 @@ header li:last-child{margin-right: 30px;}
     padding: 0 30px;
     margin-top: 30px;
     text-align: center;
-    padding-inline-start: 0;
 }
 .caracteristicas .grid li i{
     color: #c3c63b;
@@ -175,7 +173,7 @@ header li:last-child{margin-right: 30px;}
 }
 
 @media (max-width:850px){
-    .caracteristicas .grid{ flex-direction: column;}
+    .caracteristicas .grid{ flex-direction: column; padding:0 0px} 
 }
 
 /*NEWSLETTER*/
